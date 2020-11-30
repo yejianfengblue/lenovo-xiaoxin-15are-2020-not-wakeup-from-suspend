@@ -351,8 +351,8 @@ Check with command `lshw`, device `0000:03:00.4` is USB controller. But no exter
 
 ## Action Taken
 1. Disable `Always On USB` in BIOS. No luck.
-2. I have Windows + Manjaro duel boot. I went to Windows and upgraded BIOS to [version E7CN34WW 2020-11-02](https://newsupport.lenovo.com.cn/driveList.html?fromsource=driveList&selname=%E5%B0%8F%E6%96%B0-15%202020(AMD%E5%B9%B3%E5%8F%B0%EF%BC%9AARE%E7%89%88)). Lucky.
-3. Disconnect WIFI before suspend.
+2. I have Windows + Manjaro duel boot. I went to Windows and upgraded BIOS to [version E7CN34WW 2020-11-02](https://newsupport.lenovo.com.cn/driveList.html?fromsource=driveList&selname=%E5%B0%8F%E6%96%B0-15%202020(AMD%E5%B9%B3%E5%8F%B0%EF%BC%9AARE%E7%89%88)).
+3. Downgrade kernel to 5.8.18.1
 
 ## Good Case
 
